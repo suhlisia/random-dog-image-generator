@@ -14,8 +14,3 @@ function getRandomDog() {
 document.getElementById("button").addEventListener("click", function () {
   window.location.reload();
 });
-
-
-// hello world
-
-// this is just for a test branch
